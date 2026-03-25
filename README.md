@@ -79,8 +79,6 @@ const joaoVitor = {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=00d9ff&style=flat-square&label=Visitantes+no+perfil" />
-
 **"O código que você escreve hoje é a base do sistema de amanhã."**
 
 </div>
