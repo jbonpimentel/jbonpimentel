@@ -10,7 +10,6 @@
 
 ## 👨‍💻 Sobre mim
 
-<div align="left">
 ```typescript
 const joaoVitor = {
   nome:       "João Vitor Bonfim Pimentel",
@@ -21,7 +20,7 @@ const joaoVitor = {
   hobbies:    ["Explorar novas tecnologias", "Resolver problemas complexos"],
 };
 ```
-</div>
+
 ---
 
 ## 🚀 Tecnologias & Ferramentas
